@@ -20,7 +20,7 @@ Paste that URL here once it's active.
 
 > **Note:** These images use the repo's local assets. If image filenames differ, update the paths accordingly.
 
-![Homepage Preview](./9ab741a6-d8e3-47e8-b1ec-4ff860f9cc89.png)  
+![Homepage Preview]( 
 *(Open `index.html` locally or view the GitHub Pages demo to see full UI.)*
 
 ---

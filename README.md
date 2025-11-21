@@ -1,3 +1,4 @@
+![Uploading ecom ui 1.jpg…]()
 # E-com-store-AI — Modern E-Commerce UI (Frontend)
 
 > A clean, responsive e-commerce user interface built with HTML, CSS (Bootstrap) and JavaScript — perfect for portfolio demos, UI practice, and quick prototypes.
